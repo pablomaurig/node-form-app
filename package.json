@@ -1,0 +1,24 @@
+{
+  "name": "node-form-app",
+  "version": "1.0.0",
+  "description": "node mail sender",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pablomaurig/node-form-app.git"
+  },
+  "keywords": [
+    "node",
+    "email",
+    "gmail"
+  ],
+  "author": "pablomaurig",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pablomaurig/node-form-app/issues"
+  },
+  "homepage": "https://github.com/pablomaurig/node-form-app#readme"
+}
